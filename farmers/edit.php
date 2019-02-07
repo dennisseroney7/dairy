@@ -21,10 +21,6 @@ exit();
 
 
 
-
-
-
-
 ?>
 <h1>Edit Farmer</h1>
 <?php
