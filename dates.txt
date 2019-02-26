@@ -1,6 +1,4 @@
 
-git commit --amend --no-edit --date="Web Feb 20 20:00:00 2019 -0600"
-git commit --amend --no-edit --date="Mon Feb 25 20:00:00 2019 -0600"
 git commit --amend --no-edit --date="Sun Mar 3 20:00:00 2019 -0600"
 git commit --amend --no-edit --date="Mon Mar 4 20:00:00 2019 -0600"
 git commit --amend --no-edit --date="Fri Mar 8 20:00:00 2019 -0600"
