@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/dates.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -111,12 +111,12 @@
       <updated>1554360100590</updated>
       <workItem from="1554360101748" duration="3132000" />
       <workItem from="1554904134116" duration="2036000" />
-      <workItem from="1554955988398" duration="3162000" />
+      <workItem from="1554955988398" duration="3577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8330000" />
+    <option name="totallyTimeSpent" value="8745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -238,7 +238,7 @@
     <entry file="file://$PROJECT_DIR$/dates.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
