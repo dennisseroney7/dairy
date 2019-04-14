@@ -4,6 +4,12 @@
 </div>
 <script type="text/javascript" src="<?php Page_Url() ?>js/jquery.dataTables.js"></script>
 <script type="text/javascript" src="<?php Page_Url() ?>js/dataTableDefaults.js"></script>
+<script src="<?php Page_Url() ?>croppie/croppie.js"></script>
+<script>
+    // $('#profile_pic').croppie({
+    //     url: 'demo/demo-1.jpg',
+    // });
+</script>
 <script type="text/javascript">
     $(document).ready(function() {
         $('.table').dataTable({

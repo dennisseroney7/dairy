@@ -38,6 +38,7 @@ if (!isset($_SESSION['loggedin']) || !$log->logincheck($_SESSION['loggedin'], "e
         <link type="text/css" rel="stylesheet"	href="<?php Page_Url() ?>css/bootstrap-responsive.css" />
         <link type="text/css" rel="stylesheet" href="<?php Page_Url() ?>css/main.css" />
         <link type="text/css" rel="stylesheet" href="<?php Page_Url() ?>css/bootstrap-datetimepicker.min.css" />
+        <link rel="stylesheet" href="<?php Page_Url() ?>croppie/croppie.css">
         <title>Dairy Record Manager</title>
     </head>
     <body >

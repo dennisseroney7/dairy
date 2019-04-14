@@ -9,7 +9,7 @@ exit();
 ?><a class="btn btn-large btn-primary" href="add.php"><i class="icon-plus icon-white"></i>New Employee</a><br/><br/>
 <table class='table table-hover table-striped table-condensed table-bordered'>
     <thead><tr>
-        <!-- //<th>Id</th>";  -->
+         <th></th>;
         <th> Name</th>
         <th> Mail</th>
 <!-- //        <th> Pass</th>";  -->
@@ -21,7 +21,7 @@ exit();
     while($row = mysqli_fetch_array($result)){ 
     foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
     echo "<tr>";  
-        //echo "<td>" . nl2br( $row['id']) . "</td>";  
+        echo "<td><img style='width: 50px' src=". nl2br($row['profile_pic']) ."></td>";
         echo "<td>" . nl2br( $row['e_name']) . "</td>";  
         echo "<td>" . nl2br( $row['e_mail']) . "</td>";  
 //        echo "<td>" . nl2br( $row['e_pass']) . "</td>";  

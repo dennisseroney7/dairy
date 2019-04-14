@@ -1,5 +1,8 @@
 <a href='index.php' class='btn btn-primary'>Back To Employees</a>
-<form action='' method='POST'> 
+<form action='' method='POST' enctype="multipart/form-data">
+    <div class="control-group">
+        <input type="file" name="profile_pic" id="profile_pic">
+    </div>
     <div class="control-group"> 
         <label class="control-label" for="e_name">Name:</label >
         <div class="controls">                
