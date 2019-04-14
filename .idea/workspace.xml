@@ -20,9 +20,10 @@
         <entry file="file://$PROJECT_DIR$/employees/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
-              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="e#602#618#0#HTML" />
+                <element signature="n#style#0;n#img#0;n#td#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/employees/add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="41" column="260" selection-start-line="41" selection-start-column="260" selection-end-line="41" selection-end-column="260" />
+            <state relative-caret-position="111">
+              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding>
                 <element signature="e#76#191#0#PHP" />
                 <element signature="e#0#55#2" />
@@ -221,18 +222,17 @@
       <workItem from="1554955988398" duration="3935000" />
       <workItem from="1554970096410" duration="845000" />
       <workItem from="1555094491455" duration="18000" />
-      <workItem from="1555263017772" duration="5075000" />
+      <workItem from="1555263017772" duration="5494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15041000" />
+    <option name="totallyTimeSpent" value="15460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49265906" visible="true" weight="0.34516618" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49265906" visible="true" weight="0.34516618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.50734097" side_tool="true" weight="0.27760968" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -248,7 +248,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.42251223" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" weight="0.35612082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" visible="true" weight="0.35612082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,8 +400,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/employees/add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="41" column="260" selection-start-line="41" selection-start-column="260" selection-end-line="41" selection-end-column="260" />
+        <state relative-caret-position="111">
+          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding>
             <element signature="e#76#191#0#PHP" />
             <element signature="e#0#55#2" />
@@ -412,9 +412,10 @@
     <entry file="file://$PROJECT_DIR$/employees/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="e#602#618#0#HTML" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
