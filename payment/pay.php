@@ -53,7 +53,7 @@ if (isset($_GET['f_no'])) {
     <div id="printable">
         <table id="receipt"  >
             <thead style="margin-bottom: 20px">
-            <th colspan="2"  ><h1>Ciangoi Cabugi Payment Receipt</h1></th>
+            <th colspan="2"  ><h1>Dairy Manager Payment Receipt</h1></th>
             </thead>
             <tbody>
                 <tr><td><strong>Paid to</strong></td><td><?php echo $f_no . ' -- ' . $farmer['f_name']; ?> </td></tr>
